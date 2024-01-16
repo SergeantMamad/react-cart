@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500;600;700;800&display=swap");
+* {
+  font-family: "Roboto Slab", serif;
+  backdrop-filter: blur(4px);
+  -webkit-transition: all 500ms ease-in-out;
+  -ms-transition: all 500ms ease-in-out;
+  transition: all 500ms ease-in-out;
+}

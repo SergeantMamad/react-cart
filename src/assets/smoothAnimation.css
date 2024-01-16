@@ -1,0 +1,6 @@
+div {
+    transition: opacity 0.5s ease-in;
+}
+div.active {
+    opacity: 1;
+}
